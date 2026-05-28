@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorfrocess",
+        "uuid": 7325500,
+        "checksum": "o2l0s"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
